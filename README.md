@@ -1,4 +1,4 @@
-# 📘 Nimap Machine Test – Bookstore API
+# 📘 Nimap Machine Test 
 
 This project is developed as part of the **Nimap Infotech Machine Test** using **Java, Spring Boot, JPA, and Hibernate**. It provides RESTful APIs for performing CRUD operations on **Categories** and **Products**, including the use of **Postman** for testing.
 
@@ -79,9 +79,3 @@ private List<Product> products;
 @JoinColumn(name = "category_id", nullable = false)
 private Category category;
 
-🙋‍♂️ Author
-Swapnil Ahire
-MCA Graduate | Java Developer
-📍 Pune, India
-📧 Email: ahireswapnil0926@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/swapnil-ahire09
