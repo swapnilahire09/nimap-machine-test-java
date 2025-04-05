@@ -72,8 +72,8 @@ This project is developed as part of the **Nimap Infotech Machine Test** using *
 
 🙋‍♂️ Author
 Swapnil Ahire
-MCA Graduate | Java Developer
-📍 Pune, India
-📧 Email: ahireswapnil0926@gmail.com
+MCA Graduate | Java Developer,
+📍 Pune, India,
+📧 Email: ahireswapnil0926@gmail.com,
 🔗 LinkedIn: https://www.linkedin.com/in/swapnil-ahire09
 
