@@ -69,13 +69,11 @@ This project is developed as part of the **Nimap Infotech Machine Test** using *
   - One Category can have many Products.
   - `@OneToMany` and `@ManyToOne` are used.
 
-```java
-// Category.java
-@OneToMany(mappedBy = "category", cascade = CascadeType.ALL)
-private List<Product> products;
 
-// Product.java
-@ManyToOne
-@JoinColumn(name = "category_id", nullable = false)
-private Category category;
+🙋‍♂️ Author
+Swapnil Ahire
+MCA Graduate | Java Developer
+📍 Pune, India
+📧 Email: ahireswapnil0926@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/swapnil-ahire09
 
